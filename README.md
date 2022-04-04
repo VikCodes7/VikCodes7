@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VikCodes7
 - 👀 I’m interested in Machine Learning, AI, Bit of Frontend as well
-- 🌱 I’m currently learning Angular for building my portfolio website
+- 🌱 I’m currently learning React for building my portfolio website
 - 💞️ I’m looking to collaborate on Teams
   
 
